@@ -8,7 +8,7 @@ My name is Robert Borbey. I have a bachelor's degree in Exact Sciences - Compute
 * Jira - Issue tracking and project management tool
 * Selenium Webdriver - interface for providing virtualized device input actions to the web browser
 * Postman - Testing tool for REST API
-* Python/Pycharm - integrated development environment used for programming in Python
+* /Pycharm - integrated development environment used for programming in Python
 
 # Tech skills
 * Creating test cases
